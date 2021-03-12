@@ -1,0 +1,49 @@
+{
+  "Size": 1.0,
+  "MaterialNames": [
+    "Materials/TileBackground",
+    "Materials/TileBorder"
+  ],
+  "ColorStyle": {
+    "foregroundColorGroup": {
+      "IdleColor": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "a": 255
+      },
+      "MouseOverColor": {
+        "r": 170,
+        "g": 190,
+        "b": 210,
+        "a": 255
+      },
+      "MouseDownColor": {
+        "r": 181,
+        "g": 213,
+        "b": 255,
+        "a": 255
+      }
+    },
+    "borderColorGroup": {
+      "IdleColor": {
+        "r": 7,
+        "g": 7,
+        "b": 7,
+        "a": 255
+      },
+      "MouseOverColor": {
+        "r": 7,
+        "g": 7,
+        "b": 7,
+        "a": 255
+      },
+      "MouseDownColor": {
+        "r": 7,
+        "g": 7,
+        "b": 7,
+        "a": 255
+      }
+    }
+  }
+}
